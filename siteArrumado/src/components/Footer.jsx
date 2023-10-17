@@ -14,9 +14,9 @@ export default function Footer() {
           <h3 className="it">Siga:</h3>
           <ul className="urll">
               
-              <li> <img src="../img/instagram.png" alt="" /></li>
+              <li className="uuu"> <img src="../img/instagram.png" alt="" /></li>
               <li className="urll2" >@SensoryGlasses</li>
-              <li> <img src="../img/twitter.png" alt="" /></li>
+              <li className="uuu"> <img src="../img/twitter.png" alt="" /></li>
               <li className="urll3" >@SensoryGlasses3</li>
     
           </ul>
