@@ -9,13 +9,13 @@
 }
 
 .nav-list{
-
     display: flex;
     margin-top: 2rem;
     justify-content: center;
     align-items: center;
     
 }
+
  .nav-list img {
     
     width: 5rem;
@@ -56,7 +56,7 @@ ul {
     
     .nav-list {
         letter-spacing: 0.3px;
-        margin-left: 40px;
+        margin-left: 18px;
         display: flex;
         flex-direction: column; 
         margin-top: 1rem; 
@@ -91,7 +91,6 @@ ul {
        
       }
     
-      
 }
 
 
