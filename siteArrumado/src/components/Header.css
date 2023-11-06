@@ -67,8 +67,11 @@ ul {
     }
     
     .nav-list img {
-        width: 5rem;
+        width: 4.3rem;
         margin: 1rem 0; 
+        position: absolute;
+        left: 280px;
+        top: 0;
     }
     
     ul {
@@ -169,12 +172,21 @@ ul {
         width: 8rem; 
     }
 
-    .Cadas, .Cadas2 {
+    .Cadas {
 
         width: 8rem; 
         height: 1.5rem; 
-        margin-top: 10px; 
+        margin-top: 40px; 
     }
+
+    .Cadas2 {
+
+        width: 8rem; 
+        height: 1.5rem; 
+
+    }
+
+
 }
 
 

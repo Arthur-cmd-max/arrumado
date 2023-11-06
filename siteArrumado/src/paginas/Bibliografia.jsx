@@ -38,8 +38,7 @@ function Bibliografia () {
 
     <main>
       <h1 className="desc">
-    Ajudar pessoas com deficiência visual, criando um óculos com sensor para 
-    não acabar ocorrendo alguns acidentes com um deficiente visual.</h1>
+    Ajudar pessoas com deficiência visual, é o nosso foco!!! </h1>
     </main>
     
 </div>

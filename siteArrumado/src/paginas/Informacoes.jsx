@@ -29,7 +29,7 @@ function Informacoes () {
 
 <br />
 
-<h5 className="hs1"> Ajudar pessoas com deficiência visual, criando um óculos com sensor para não acabar ocorrendo acidentes com um deficiente visual.</h5>
+<h5 className="hs1"> Ajudar pessoas com deficiência visual, além da inclusão de pessoas com deficiência auditiva, com um óculos proporcinado para ambos.</h5>
 
 </div>
 

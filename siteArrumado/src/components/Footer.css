@@ -61,20 +61,21 @@ background-color: #000000;
 }
 
 .urll img {
-    width: auto;
-    height: 2px;
     display: inline-block;
     width: 30px;
     height: 30px;
     margin: 2px;
     background-size: cover;
     background-color: #000000;
+    left: 30px;
 }
 
 ul.urll {
     font-family: 'Archivo Black', sans-serif;
     background-color: #000000;
-    margin: 1px;
+    margin: auto;
+    display: flex;
+
 }
 .urll2 {
     font-family: 'Archivo Black', sans-serif;
@@ -92,9 +93,10 @@ ul.urll {
 
 li.uuu {
 
-
-background-color: #000000;
-
+    display: inline-block;
+    margin: auto;
+    background-color: #000000;
+    line-height: 10px;
 }
 
 li.urll3 {
@@ -159,5 +161,32 @@ background-color: #000000;
     
     }
     
+    li.urll3 {
+
+        line-height: 60px;
+
+    } 
+    
+    h3.it {
+
+        line-height: 80px;
+    }
+
+    h3.it2 {
+
+        line-height: 60px;
+    }
+    
+    p.it2 {
+
+
+        line-height: 50px;
+
+    }
+
+    p.it {
+
+        line-height: 20px;
+    }
     
 }
