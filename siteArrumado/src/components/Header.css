@@ -37,20 +37,6 @@ ul {
     font-size: 1.5rem;
 }
 
-.mobile-menu {
-    display: none;
-    cursor: pointer;
-  }
-  
-  .mobile-menu div {
-    width: 32px;
-    height: 2px;
-    background: #fff;
-    margin: 8px;
-    transition: 0.3s;
-  }
-  
-
 
 @media screen and (max-width: 600px) {
     
@@ -331,10 +317,26 @@ form {
     }
     
     .educa {
-        width: 100%; 
-        max-width: 500px; 
-        margin: 0 auto; 
+    
+        width: 32.4rem;
+        border: none;
+        margin-inline: auto;
+        display: flex;
+        max-width:200px;
+        min-width: 300px;
         border-radius: 40px;
+    }
+    
+    button.saiba {
+
+        margin: 30px;
+        margin-inline: auto;
+    }
+    
+    p.pronto {
+
+        margin: 30px;
+        margin-inline: auto;
     }
 
 }
@@ -506,6 +508,7 @@ form {
     padding: 3%;
     margin-inline: 12rem;
     font-family: 'Archivo Black', sans-serif;
+    
 }
 
 .intr {
@@ -525,14 +528,12 @@ form {
 
 .funfa img {
 
-    align-items: 10rem;
-    min-width: 250px;
-    display: inline-block;
-    text-align: center;
-    display: flex;
-    margin-inline: auto;
-    align-items: center;
+    width: 32.4rem;
     border: none;
+    margin-inline: auto;
+    display: flex;
+    max-width:500px;
+    min-width: 400px;
     border-radius: 40px;
 }
 
@@ -555,12 +556,33 @@ form {
         margin: 0 auto;
     }
 
-    p.sobr {
-        
+    .sobr {
+
+        font-size: 2.5rem;
+        display: flex;
+        padding: 3%;
+        margin-inline: 3rem;
+        font-family: 'Archivo Black', sans-serif;
+    }
+
+    .funfa img {
+
+        width: 32.4rem;
+        border: none;
+        margin-inline: auto;
+        display: flex;
+        max-width:200px;
+        min-width: 300px;
+        border-radius: 40px;
+    }
+
+    p.intr {
+
         margin: 30px;
         margin-inline: auto;
         
     }
+    
 
 }
 
@@ -573,6 +595,7 @@ form {
     display: flex;
     padding: 1%;
     margin-inline: 12rem;
+    margin: 30px;
 }
 
 .Subtitulo {
@@ -658,6 +681,17 @@ form {
     min-width: 250px;
     display: inline-block;
 
+}
+
+.qrcode {
+
+    width: 2px;
+    margin-inline: auto;
+    display: flex;
+    max-width:100px;
+    min-width: 200px;
+    margin: 30px;
+    margin-inline: auto;
 }
 
 @media (max-width: 600px) {

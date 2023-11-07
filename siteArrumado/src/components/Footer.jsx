@@ -15,9 +15,9 @@ export default function Footer() {
           <ul className="urll">
               
               <li className="uuu"> <img src="../img/instagram.png" alt="" /></li>
-              <li className="urll2" >@SensoryGlasses</li>
+              <a className="linhaP" href="https://instagram.com/sensoryglasses_?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr"><li className="urll2" >@SensoryGlasses_ </li></a> 
               <li className="uuu"> <img src="../img/twitter.png" alt="" /></li>
-              <li className="urll3" >@SensoryGlasses3</li>
+          <a className="liPr" href="https://twitter.com/SensoryGlasses3"><li className="urll3" >@SensoryGlasses3 </li></a> 
     
           </ul>
         </div>
@@ -35,6 +35,7 @@ export default function Footer() {
       </div>
       <div className="footer-copyright">
         <p className="it">&#169; 2023 All rights reserved</p>
+        
       </div>
     </footer>
       </>

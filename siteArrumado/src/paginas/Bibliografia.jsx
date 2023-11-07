@@ -31,8 +31,6 @@ function Bibliografia () {
   <br/>
 
     
-    
-    
 
 </div>
 
@@ -40,6 +38,8 @@ function Bibliografia () {
       <h1 className="desc">
     Ajudar pessoas com deficiência visual, é o nosso foco!!! </h1>
     </main>
+    
+    <img className="qrcode" src="../img/qrcode.png" alt="qrcode" />
     
 </div>
        

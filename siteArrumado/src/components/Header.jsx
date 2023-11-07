@@ -15,7 +15,8 @@ export default function Header() {
           </div>
           
             <img src="../img/logo.png" alt="" />
-            <ul>    
+            <ul>      
+              
 
                 <a className="head" href="/Home">Inicio</a>
                 <a className="head" href="/Informacoes">Informações</a>
