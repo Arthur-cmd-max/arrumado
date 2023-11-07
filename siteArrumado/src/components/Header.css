@@ -506,6 +506,8 @@ form {
     display: flex;
     margin-inline: auto;
     align-items: center;
+    border: none;
+    border-radius: 40px;
 }
 
 @media (max-width: 600px) {
@@ -525,6 +527,12 @@ form {
         height: auto; 
         display: block; 
         margin: 0 auto;
+    }
+
+    p.sobr {
+        
+        display: inline-block;
+        
     }
 
 }
@@ -613,6 +621,7 @@ form {
     font-family: 'Times New Roman', Times, serif;
     padding: 3%;
     font-size: 2rem;
+    text-align: center;
 }
 
 .escur {
