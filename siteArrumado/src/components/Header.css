@@ -407,6 +407,17 @@ form {
     
 }
 
+@media (max-width: 600px) {
+
+    button.veja {
+
+        margin: 30px;
+        margin-inline: auto;
+    }
+    
+
+}
+
 
 
 /* Itens */
@@ -470,6 +481,21 @@ form {
   border-radius: 10px;
 }
 
+@media (max-width: 600px) {
+
+    button.Voltar {
+
+        margin: 30px;
+        margin-inline: auto;
+    }
+
+    p.Ite {
+
+         margin: 30px;
+        margin-inline: auto;
+    }
+    
+}
 
 
 /* Sobre */
@@ -531,7 +557,8 @@ form {
 
     p.sobr {
         
-        display: inline-block;
+        margin: 30px;
+        margin-inline: auto;
         
     }
 
